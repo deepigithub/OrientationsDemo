@@ -1,0 +1,1 @@
+This Demo shows handling of various ways to handle orientation
